@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14fccee5-e914-49b2-a694-713143c86757" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f8mf7OsdCTK4HFVAV3vm62s3Ve" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.FrontEnd">
+    <configuration name="BackEnd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Launcher" />
+      <option name="MAIN_CLASS_NAME" value="Launcher.BackEnd" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BackEnd.ShouldAssertBreweryData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Launcher" />
+      <option name="MAIN_CLASS_NAME" value="Launcher.BackEnd" />
+      <option name="METHOD_NAME" value="ShouldAssertBreweryData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontEnd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Launcher" />
+      <option name="MAIN_CLASS_NAME" value="Launcher.FrontEnd" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FrontEnd.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Launcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Launcher" />
+      <option name="MAIN_CLASS_NAME" value="Launcher.FrontEnd" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.FrontEnd" />
+        <item itemvalue="TestNG.BackEnd" />
+        <item itemvalue="TestNG.BackEnd.ShouldAssertBreweryData" />
+        <item itemvalue="TestNG.FrontEnd.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14fccee5-e914-49b2-a694-713143c86757" name="Default Changelist" comment="" />
+      <created>1595608193838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595608193838</updated>
+    </task>
+    <servers />
+  </component>
+</project>
